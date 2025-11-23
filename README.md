@@ -24,3 +24,12 @@ This is a simple, console-based *Inventory Management System* built in Java. It 
 The project consists of a single Java file:
 
 * InventorySystem.java: Contains the main class, main method, and all inventory management methods (addProduct, viewProduct, updateProduct, deleteProduct).
+
+---
+
+## 🔧 Setup Instructions
+1. Install Java (JDK 17 or above).
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Compile the file: javac InventorySystem.java
+5. Run the program: java InventorySystem
